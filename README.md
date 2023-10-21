@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legacies225
 - 👀 I’m interested in doing back-end Development.
-- 🌱 I’m currently learning JavaScript using Replit
+- 🌱 I’m currently learning Python and JavaScript using Replit.
 - 💞️ I’m looking to collaborate on code sessions.
 - 📫 How to reach me, through my Twitter(X) @LizzyOsi5.
 
