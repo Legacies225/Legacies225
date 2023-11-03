@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Legacies225
+- 👋 Hi, I’m @Elizabeth Osilaja
 - 👀 I’m interested in doing back-end Development.
 - 🌱 I’m currently learning Python and JavaScript using Replit.
 - 💞️ I’m looking to collaborate on code sessions.
